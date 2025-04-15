@@ -103,4 +103,4 @@
 
 4. DB( Data Base)
 
-* 1,2,3번은 Spring Bean으로 등록해서 이용함
+* 1,2,3번 과정은 Spring Bean으로 등록해서 이용함
