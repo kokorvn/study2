@@ -16,7 +16,7 @@
   - Spring Container라고 하는 공용창고에 빈 객체를 저장해두고, 필요한 빈을 컨테이너에서 받아 사용
   - 컨테이너 안에서 이미 생성된 객체를 가지고 재사용하기
   - 필요한 bean은 Spring framework 가 자동으로 가져다 줌/ bean을 요구하는 객체도 Spring Bean
-  - 단) 빈이 아닌 일반 객체일 땐, framework가 자동으로 갖다주진 않음!
+  - 단, 빈이 아닌 일반 객체일 땐, framework가 자동으로 갖다주진 않음!
 
 * Spring Container
   : Spring Bean이 저장되는 공간
